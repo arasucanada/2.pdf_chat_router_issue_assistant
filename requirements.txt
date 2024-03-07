@@ -1,0 +1,9 @@
+transformers
+langchain
+huggingface_hub
+sentence-transformers==2.2.2
+InstructorEmbedding
+chromadb
+PyPDF2
+streamlit
+streamlit_chat
